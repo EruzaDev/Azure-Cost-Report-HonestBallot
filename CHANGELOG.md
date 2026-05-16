@@ -11,13 +11,18 @@ All notable changes to this project will be documented in this file.
 - `[Siege]` Service so that the webapp would run on startup
 - `[Dexie]` Monitor Alerts so that the user can be notified if the chance of process fluctation
 - `[Siege]` DevOps feature for continous deployment and integration
+- `[Jp]` Created service on startup
+- `[Jp]` Added more monitoring features such as active users
 
 ### Changed
 - `[Siege]` Adjusted requirements.txt to fit the Linux Ecosystem
+- `[Dexie]` Improved Nginx configuration
+- `[Dexie]` Updated Nginx to the latest version after AI revealed a possible exploit
 
 ### Fixed
 - `[Siege]` Fixed App entry to include a hardcoded PORT so that it can remain consistent
 
 ### Removed
 - `[Jp]` Deleted Railway deprecated yml file
+- `[Dexie]` Removed old Nginx certification
 
