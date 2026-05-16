@@ -16,12 +16,12 @@ The application features secure authentication, real-time vote counting, audit l
 ---
 
 ## 🎥 Video Demonstration
-[Insert Video Link Here]
+
 
 ---
 
 ## 🌐 Demo URL
-[Insert Demo URL Here]
+[HonestBallot Website](https://honestballot.dev)
 
 ---
 
